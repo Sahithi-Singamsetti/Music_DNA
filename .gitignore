@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local data files — keep datasets off GitHub
+data/*
+!data/.gitkeep
+
+# Environment secrets
+.env
